@@ -8,4 +8,4 @@ This project requires python3 and requets package.
 first install pipenv and then:
 
 `pipenv install
-iphthon3 find_meteors.py`
+iphthon3 meteors/find_meteors.py`
